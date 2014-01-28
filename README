@@ -1,0 +1,4 @@
+README:
+
+Just a collection of ruby array methods, partly to see how they work
+but also to practise writing rspec tests. 
